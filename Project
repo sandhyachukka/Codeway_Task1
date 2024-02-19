@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <style>
+        #i1{
+                
+                height:250px;
+                width: 400px;
+                
+            }
+            #d1{
+                display: flex;
+                font-size: 24px;
+                font-style: oblique;
+            }
+            p{
+                margin-left:15px;
+            }
+            button{
+            position: absolute;
+            top: 10px;
+            right: 50px;
+            height: 40px;
+            width: 70px;
+            font-size: 15px;
+            color: black;
+            }
+
+
+    </style>
+</head>
+<body>
+    <h1  align="center"><u>MY PROJECTS</u></h1>
+    <button><a href="taskk1.html">HOME</a></button>
+    <div id="dd1">
+        <div id="d1">
+           <img id="i1" src="C:\Users\sandh\Downloads\weather1.jpg">
+           <p> I had done this internship under academor as a front-end web developer.I had done weather application as project for internship. I had used HTML,CSS to design the front end of the project and I used Basic Javascript for designing the functionality of the application.</p>
+        </div><br>
+        <div id="d1">
+            <img id="i1"src="C:\Users\sandh\Downloads\weather2.jpg">
+            <p>The working of the project will bw, when we enter a city name we can see the temperature of the current day and temperature for succeeding five days.Not only temperature we also see the current wind and humidity and succeeding 5 days weather report for wind and humidity.Here in this  picture we can see the current weather report for Delhi and succeeding 5 days weather reports.</p>
+        </div><br>
+        <div id="d1">
+            <img id="i1"src="C:\Users\sandh\OneDrive\Pictures\Screenshots\ss5.png">
+            <p> I had done this internship under academor as a front-end web developer.I had done historical places as project for internship. I had used HTML,CSS to design the front end of the project .</p>
+        </div></div>
+
+</body>
+</html>
