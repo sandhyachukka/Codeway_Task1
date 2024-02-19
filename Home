@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>task1</title>
+    <style>
+        body{
+            background-image: url("http://wallsdesk.com/wp-content/uploads/2016/02/Black-abstract-Background.jpg");
+            background-size: 100%;
+            opacity: 0.4;
+          }
+      h2{
+        color: white;
+      }
+      h1{
+            margin-top: 250px;
+            margin-left: 660px;
+            color: white;
+            font-size: 45px;
+        }
+        h2{
+            margin-top: 30px;
+            margin-left: 420px;
+            color: white;
+            font-size: 30px;
+          }
+        button{
+          height: 100px;
+          width: 100px;
+          margin-left: 300px;
+          margin-top: 10px;
+          font-size: 20px;
+          border-style: dotted;
+          border-color: black;
+          border-width: 3px;
+        }
+        #i1{
+          height: 60px;
+          width: 60px;
+        }
+    </style>
+</head>
+<body>
+  
+    <h1>Hello!!! <img id="i1" src="https://cdn-icons-png.flaticon.com/128/201/201634.png"></h1>
+     <h2>This is CHUKKA.SANDHYA SATYA SAI PADMINI </h2>
+    <button><a href="about.html" >About</a></button>
+    <button><a href="projects.html" >projects</a></button>
+    <button><a href="Resume_contact.html" >Contact</a></button>
+</body>
+</html>
