@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Portfolio</title>
+    <style>
+        body{
+            background-image: url("https://static.vecteezy.com/system/resources/previews/001/946/670/original/abstract-template-grey-geometric-shine-and-layer-background-with-light-blue-effect-technology-style-free-vector.jpg");
+        }
+        h1{
+            margin-top: 80px;
+            margin-left: 650px;
+            text-decoration: underline;
+        }
+        #i1{
+            height: 300px;
+            width: 300px;
+            float: left;
+            border-style: solid;
+            border-color: black;
+            border-radius: 15px;
+            margin-top: 90px;
+        }
+        #d1{
+            font-size: 30px;
+            margin-top: 100px;
+            margin-left: 330px;
+            font-style: oblique;
+        }
+        #d2{
+            display: flex;
+            flex-direction: column;
+            color: rgb(65, 62, 62);
+            font-size: 25px;
+            margin-top: 30px;
+            margin-left: 20px;
+            font-style: oblique;
+        }
+        button{
+            
+            position: absolute;
+            top: 30px;
+            right: 50px;
+            height: 40px;
+            width: 70px;
+            font-size: 15px;
+            color: black;
+        }
+        #d3{
+            margin-top: 30px;
+            margin-left: 40px;
+            display: flex;
+            flex-direction: column;
+            font-style: oblique;
+            font-size: 25px;
+            color: rgb(77, 72, 72);
+        }
+        #com{
+            display: flex;
+            flex-direction: row;
+        }
+    </style>
+</head>
+<body>
+    <h1>ABOUT ME</h1>
+    <button><a href="taskk1.html">HOME</a></button>
+    <img id="i1"src="https://static.vecteezy.com/system/resources/previews/009/354/844/original/female-character-people-profile-perfect-for-social-media-and-business-presentations-user-interface-ux-graphic-and-web-design-applications-and-interfaces-hand-draw-illustration-vector.jpg">
+    <div id="d1">I am an enthusiastic, self-motivated, reliable, responsible and hard working person. I am a mature team worker and adaptable to all challenging situations. I am able to work well both in a team environment as well as using own initiative. I am able to work well under pressure and adhere to strict deadlines</div>
+    <div id="com"><div id="d2"><label>Name: ch.s.s.s.padmini</label>
+    <label>DOB: 12/May/2004</label>
+    <label>Profile: web developer</label>
+    <label>Education: Currently persuading 3rd B.Tech</label>
+    <label>Branch: Information Technology</label>
+    <label>College: Vishnu Institute Of Technology</label>
+    </div>
+    <div id="d3">
+        <label><u>skills</u></label>
+        <label>->HTML/CSS</label>
+        <label>->python</label>
+        <label>->Basic Javascript</label>
+        <label>->SQL</label>
+    </div></div>
+</body>
+</html>
