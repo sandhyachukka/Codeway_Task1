@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body{
+                background-image: url("https://static.vecteezy.com/system/resources/previews/001/946/670/original/abstract-template-grey-geometric-shine-and-layer-background-with-light-blue-effect-technology-style-free-vector.jpg");
+            }
+            p{
+                font-size: 20px;
+            }
+            button{
+            position: absolute;
+            
+            top: 10px;
+            right: 50px;
+            height: 40px;
+            width: 70px;
+            font-size: 15px;
+            color: black;
+            }
+            label{
+                font-size:27px;
+                margin-left: 500px;
+               
+            }
+            #i1{
+                height: 10px;
+                width: 10px;
+            }
+            #p1{
+                
+                position: absolute;
+                bottom: 60px;
+                left: 550px;
+            }
+            h1{
+                margin-top: 70px;
+            }
+            #i2{
+                height: 30px;
+                width: 30px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1 align="center"><U>RESUME</U></h1>
+        <button><a href="taskk1.html">HOME</a></button>
+        <p align="center">Download my resume here...
+        <a href="https://jmp.sh/h68d9Qvk"> RESUME</a></p><br><br>
+        <h1 align="center"><U>CONTACT ME</U></h1>
+        <label ><img id="i2"src="https://cdn-icons-png.flaticon.com/128/937/937159.png">  Name:Ch.s.s.s.padmini</label><br>
+        <label ><img id="i2"src="https://cdn-icons-png.flaticon.com/128/724/724664.png">  Phone:9398370107</label><br>
+        <label ><img id="i2"src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png">  G-Mail:21pa1a1224@vishnu.edu.in</label><br>
+        <label ><img id="i2"src="https://cdn-icons-png.flaticon.com/128/145/145807.png"> LinkedIn:<a href="www.linkedin.com/in/sandhya-chukka-a16a8b239">www.linkedin.com/in/sandhya-chukka-a16a8b239</a></label>
+        <br><br><br>
+        <p id="p1"><b>Copyright<img id="i1" src="https://cdn-icons-png.flaticon.com/128/74/74717.png"> All rights preserved to CH.S.S.S.PADMINI</b></p>
+</body>
+</html>
